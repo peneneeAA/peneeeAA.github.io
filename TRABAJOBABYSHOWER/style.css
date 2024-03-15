@@ -1,0 +1,41 @@
+body{
+margin: 0;
+padding;50%
+height: 100%;
+}
+.video{ 
+    overflow: hidden;
+position: relative;
+width: 110%
+height: 100%;
+} 
+.video1{
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+object-fit: cover;
+z-index: -1;
+}
+    .fotol{  
+position: absolute;
+text-align: center;
+z-index: 1;
+}   
+
+
+.video2{
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+object-fit: cover;
+z-index: -1;
+} 
+.foto2{
+    position: absolute;
+text-align: center;
+z-index: 1;
+}  
